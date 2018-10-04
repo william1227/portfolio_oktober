@@ -85,11 +85,13 @@ body {
 	margin-left: -600px;
 	z-index: -4;
 }
+/*Mit navn på forsiden*/
 #overskrift {
 	margin: 45% 10% 10% 37%;
 	font-size: 37px;
 	line-height: 50px;
 }
+/*teksten om mig unde Om mig*/
 .mig_tekst {
 	margin: 16% 40.2% 0 16%;
 	padding: 12px 15px;
@@ -98,6 +100,7 @@ body {
 	line-height: 26px;
 	font-size: 16px;
 }
+/*Kontaktformen under Kontakt*/
 form {
 	width: 43vw;
 	margin: 150px auto;
@@ -129,16 +132,7 @@ form textarea {
 #send_knap:hover {
 	background: #AFAFAF;
 }
-.thumbnail {
-	list-style-type: none;
-	margin: 100px 0 0 350px;
-}
-.thumbnail img {
-	list-style-type: none;
-	float: left;
-	height: 20%;
-	width: 300px;	
-}
+/*Projektmenuen under mine projekter*/
 table {
 	/*property + value */
 	border-collapse: collapse; 	
@@ -168,6 +162,7 @@ figcaption {
 	padding: 4px;
 	text-decoration-line: underline;	
 }
+/*Opsætningen af mine projekter*/
 .projekt_overskrift {
 	margin: 130px 0 20px 0;
 	padding-top: 50px;
